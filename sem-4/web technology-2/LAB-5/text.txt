@@ -1,0 +1,40 @@
+[{
+    "studentid":1,
+    "studentname":"vivek",
+    "studentenroll":12446354,
+    "studentno":6543535,
+    "studentspi":5
+
+},
+{
+    "studentid":5640,
+    "studentname":"nandani",
+    "studentenroll":654654646,
+    "studentno":6423135456,
+    "studentspi":6
+
+},
+{
+    "studentid":9874,
+    "studentname":"gaurav",
+    "studentenroll":54231321566,
+    "studentno":85431864135,
+    "studentspi":7
+
+},
+{
+    "studentid":987,
+    "studentname":"karan",
+    "studentenroll":65465164856,
+    "studentno":65594566355,
+    "studentspi":8
+
+},
+{
+    "studentid":321,
+    "studentname":"vishvajit",
+    "studentenroll":542154545645,
+    "studentno":4245424,
+    "studentspi":3
+
+}]
